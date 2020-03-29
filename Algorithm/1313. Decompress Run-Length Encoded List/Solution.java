@@ -4,11 +4,8 @@ class Solution {
 		int[] results = new int[getArraySize(nums)];
 		int index = 0;
 		for (int i = 0; i < nums.length; i += 2) {
-			int count = nums[i];
-			for (int co = 0; co < count; co++) {
-				results[index] = nums[i + 1];
-				index++;
-			}
+			Arrays.fill(results, index, index + nums[i], nums[i + 1]);
+			index += nums[i];
 		}
 		return results;
 	}
