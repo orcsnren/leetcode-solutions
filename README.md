@@ -4,5 +4,5 @@ This repository contains efficient leetcode solutions for most of the leetcode p
 
 ## Algorithms 
 
-| # | Problem | Solution | 
+| # | Problem          | Solution | 
 |:---:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
