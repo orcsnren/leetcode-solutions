@@ -17,5 +17,13 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0229  | [ Majority Element II ](https://leetcode.com/problems/majority-element-ii/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/229.%20Majority%20Element%20II/Solution.java)
 |  0232  | [ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/232.%20Implement%20Queue%20using%20Stacks/Solution.java)
 |  0283  | [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/283.%20Move%20Zeroes/Solution.java)
-
+|  0434  | [ Number of Segments in a String ](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/434.%20Number%20of%20Segments%20in%20a%20String/Solution.java)
+|  0442  | [ Find All Duplicates in an Array ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/442.%20Find%20All%20Duplicates%20in%20an%20Array/Solution.java)
+|  0448  | [ Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/448 %20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/Solution.java)
+|  0543  | [ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/543.%20Diameter%20of%20Binary%20Tree/Solution.java)
+|  0665  | [ Non-decreasing Array ](https://leetcode.com/problems/non-decreasing-array/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/665.%20Non-decreasing%20Array/Solution.java)
+|  0771  | [ Jewels And Stones ](https://leetcode.com/problems/jewels-and-stones/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/771.%20Jewels%20And%20Stones/Solution.java)
+|  0844  | [ Backspace String Compare ](https://leetcode.com/problems/backspace-string-compare/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/844.%20Backspace%20String%20Compare/Solution.java)
+|  0876  | [ Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/876.%20Middle%20of%20the%20Linked%20List/Solution.java)
+|  0941  | [ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/941.%20Valid%20Mountain%20Array/Solution.java)
 
