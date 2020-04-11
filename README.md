@@ -4,5 +4,6 @@ This repository contains efficient leetcode solutions for most of the leetcode p
 
 ## Algorithms 
 
-| # | Problem          | Solution | 
+| # | Problem| Solution | 
 |:---:|:-------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+|  0001  | [Two Sum ](https://leetcode.com/problems/two-sum/) [Solution.java](https://github.com/orcsnren/leetcode-solutions/blob/master/Algorithm/1.%20Two%20Sum/Solution.java)    
