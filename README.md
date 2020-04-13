@@ -26,6 +26,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0844  | [ Backspace String Compare ](https://leetcode.com/problems/backspace-string-compare/) | [Solution.java](./algorithm/844.%20Backspace%20String%20Compare/Solution.java)
 |  0876  | [ Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.java](./algorithm/876.%20Middle%20of%20the%20Linked%20List/Solution.java)
 |  0941  | [ Valid Mountain Array ](https://leetcode.com/problems/valid-mountain-array/) | [Solution.java](./algorithm/941.%20Valid%20Mountain%20Array/Solution.java)
+|  1046  | [ Last Stone Weight ](https://leetcode.com/problems/last-stone-weight/) | [Solution.java](./algorithm/1046.%20Last%20Stone%20Weight)
 |  1281  | [ Substract the Product and Sum of Digits of the an Integer ](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution.java](./algorithm/1281.%20Substract%20the%20Product%20and%20Sum%20of%20Digits%20of%20the%20an%20Integer/Solution.java)
 |  1313  | [ Decompress Run-Length Encoded List ](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [Solution.java](./algorithm/1313.%20Decompress%20Run-Length%20Encoded%20List/Solution.java)
 |  1342  | [ Number of Steps to Reduce a Number to Zero ](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution.java](./algorithm/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Solution.java)
