@@ -36,6 +36,5 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  1402  | [ Reducing Dishes ](https://leetcode.com/problems/reducing-dishes/) | [Solution.java](./algorithm/1402.%20Reducing%20Dishes/Solution.java)
 |  1404  | [  Number of Steps to Reduce a Number in Binary Representation to One ](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution.java](./algorithm/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/Solution.java)
 |  ****  | [ Counting Elements ](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/) | [Solution.java](./algorithm/Counting%20Elements/Solution.java)
-|  ****  | [ Perform String Shifts ](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) |
-[Solution.java](./algorithm/Perform%20String%20Shifts/Solution.java)
+|  ****  | [ Perform String Shifts ](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/ |[Solution.java](./algorithm/Perform%20String%20Shifts/Solution.java)
 
