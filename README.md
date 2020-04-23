@@ -8,6 +8,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |---| ----- | -------- |
 |  0001  | [ Two Sum ](https://leetcode.com/problems/two-sum/) | [Solution.java](./algorithm/1.%20Two%20Sum/Solution.java)
 |  0020  | [ Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | [Solution.java](./algorithm/20.%20Valid%20Parentheses/Solution.java) 
+|  0033  | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution.java](./algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java) 
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
 |  0122  | [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](./algorithm/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java)
