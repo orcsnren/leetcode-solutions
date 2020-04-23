@@ -8,6 +8,8 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |---| ----- | -------- |
 |  0001  | [ Two Sum ](https://leetcode.com/problems/two-sum/) | [Solution.java](./algorithm/1.%20Two%20Sum/Solution.java)
 |  0020  | [ Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | [Solution.java](./algorithm/20.%20Valid%20Parentheses/Solution.java) 
+|  0033  | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution.java](./algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java) 
+
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
 |  0122  | [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](./algorithm/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java)
@@ -35,9 +37,9 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  1365  | [ How Many Numbers Are Smaller Than the Current Number ](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.java](./algorithm/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/Solution.java)
 |  1399  | [ Count Largest Group ](https://leetcode.com/problems/count-largest-group/) | [Solution.java](./algorithm/1399.%20Count%20Largest%20Group/Solution.java)
 |  1402  | [ Reducing Dishes ](https://leetcode.com/problems/reducing-dishes/) | [Solution.java](./algorithm/1402.%20Reducing%20Dishes/Solution.java)
-|  1404  | [  Number of Steps to Reduce a Number in Binary Representation to One ](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution.java](./algorithm/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/Solution.java)
-|  1413  | [  Minimum Value to Get Positive Step by Step Sum ](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution.java](./algorithm/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/Solution.java)
-|  1414  | [  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K ](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Solution.java ](./algorithm/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/Solution.java)
+|  1404  | [ Number of Steps to Reduce a Number in Binary Representation to One ](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution.java](./algorithm/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/Solution.java)
+|  1413  | [ Minimum Value to Get Positive Step by Step Sum ](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution.java](./algorithm/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/Solution.java)
+|  1414  | [ Find the Minimum Number of Fibonacci Numbers Whose Sum Is K ](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Solution.java ](./algorithm/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/Solution.java)
 |  ****  | [ Counting Elements ](./algorithm/Counting%20Elements/question.md) | [Solution.java](./algorithm/Counting%20Elements/Solution.java)
 |  ****  | [ Perform String Shifts ](./algorithm/Perform%20String%20Shifts/question.md) |[Solution.java](./algorithm/Perform%20String%20Shifts/Solution.java)
 
