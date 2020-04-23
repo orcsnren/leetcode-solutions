@@ -37,6 +37,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  1402  | [ Reducing Dishes ](https://leetcode.com/problems/reducing-dishes/) | [Solution.java](./algorithm/1402.%20Reducing%20Dishes/Solution.java)
 |  1404  | [  Number of Steps to Reduce a Number in Binary Representation to One ](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution.java](./algorithm/1404.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20in%20Binary%20Representation%20to%20One/Solution.java)
 |  1413  | [  Minimum Value to Get Positive Step by Step Sum ](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Solution.java](./algorithm/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum/Solution.java)
+|  1414  | [  Find the Minimum Number of Fibonacci Numbers Whose Sum Is K ](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Solution.java ](./algorithm/1414.%20Find%20the%20Minimum%20Number%20of%20Fibonacci%20Numbers%20Whose%20Sum%20Is%20K/Solution.java)
 |  ****  | [ Counting Elements ](./algorithm/Counting%20Elements/question.md) | [Solution.java](./algorithm/Counting%20Elements/Solution.java)
 |  ****  | [ Perform String Shifts ](./algorithm/Perform%20String%20Shifts/question.md) |[Solution.java](./algorithm/Perform%20String%20Shifts/Solution.java)
 
