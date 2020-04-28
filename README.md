@@ -11,6 +11,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0033  | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution.java](./algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java) 
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
+|  0055  | [ Jump Game ](https://leetcode.com/problems/jump-game/) | [Solution.java](./algorithm/55.%20Jump%20Game/Solution.java)
 |  0122  | [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](./algorithm/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java)
 |  0136  | [ Single Number ](https://leetcode.com/problems/single-number/) | [Solution.java](./algorithm/136.%20Single%20Number/Solution.java)
 |  0155  | [ Min Stack ](https://leetcode.com/problems/min-stack/) | [Solution.java](./algorithm/155.%20Min%20Stack/Solution.java)
