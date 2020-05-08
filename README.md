@@ -15,6 +15,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0122  | [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](./algorithm/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java)
 |  0136  | [ Single Number ](https://leetcode.com/problems/single-number/) | [Solution.java](./algorithm/136.%20Single%20Number/Solution.java)
 |  0155  | [ Min Stack ](https://leetcode.com/problems/min-stack/) | [Solution.java](./algorithm/155.%20Min%20Stack/Solution.java)
+|  0169  | [ Majority Element ](https://leetcode.com/problems/majority-element/) | [Solution.java](./algorithm/169.%20Majority%20Element/Solution.java)
 |  0202  | [ Happy Number ](https://leetcode.com/problems/happy-number/) | [Solution.java](./algorithm/202.%20Happy%20Number/Solution.java)
 |  0221  | [ Maximal Square ](https://leetcode.com/problems/maximal-square/) | [ Solution.java ](./algorithm/221.%20Maximal%20Square/Solution.java)
 |  0229  | [ Majority Element II ](https://leetcode.com/problems/majority-element-ii/) | [Solution.java](./algorithm/229.%20Majority%20Element%20II/Solution.java)
