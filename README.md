@@ -32,6 +32,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0525  | [ Contiguous Array ](https://leetcode.com/problems/contiguous-array/) | [Solution.java](./algorithm/525.%20Contiguous%20Array/Solution.java)
 |  0543  | [ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution.java](./algorithm/543.%20Diameter%20of%20Binary%20Tree/Solution.java)
 |  0665  | [ Non-decreasing Array ](https://leetcode.com/problems/non-decreasing-array/) | [Solution.java](./algorithm/665.%20Non-decreasing%20Array/Solution.java)
+|  0678  | [ Valid Parenthesis String ](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.java](./algorithm/678.%20Valid%20Parenthesis%20String/Solution.java)
 |  0771  | [ Jewels And Stones ](https://leetcode.com/problems/jewels-and-stones/) | [Solution.java](./algorithm/771.%20Jewels%20And%20Stones/Solution.java)
 |  0844  | [ Backspace String Compare ](https://leetcode.com/problems/backspace-string-compare/) | [Solution.java](./algorithm/844.%20Backspace%20String%20Compare/Solution.java)
 |  0876  | [ Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.java](./algorithm/876.%20Middle%20of%20the%20Linked%20List/Solution.java)
