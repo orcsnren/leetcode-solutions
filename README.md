@@ -1,6 +1,6 @@
 # Leetcode Solutions 
 
-This repository contains efficient leetcode solutions of the leetcode problems / challenges
+This repository contains efficient leetcode solutions of the leetcode problems / challenges.
 
 ## Algorithms 
 
