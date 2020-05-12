@@ -30,6 +30,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0448  | [ Find All Numbers Disappeared in an Array ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution.java](./algorithm/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/Solution.java)
 |  0476  | [ Number Complement ](https://leetcode.com/problems/number-complement/) | [Solution.java](./algorithm/476.%20Number%20Complement/Solution.java)
 |  0525  | [ Contiguous Array ](https://leetcode.com/problems/contiguous-array/) | [Solution.java](./algorithm/525.%20Contiguous%20Array/Solution.java)
+|  0540  | [ Single Element in a Sorted Array ](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution.java](./algorithm/540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.java)
 |  0543  | [ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution.java](./algorithm/543.%20Diameter%20of%20Binary%20Tree/Solution.java)
 |  0665  | [ Non-decreasing Array ](https://leetcode.com/problems/non-decreasing-array/) | [Solution.java](./algorithm/665.%20Non-decreasing%20Array/Solution.java)
 |  0678  | [ Valid Parenthesis String ](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.java](./algorithm/678.%20Valid%20Parenthesis%20String/Solution.java)
