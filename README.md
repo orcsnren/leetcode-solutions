@@ -59,4 +59,5 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 
 | # | Title| Solution | 
 |---| ----- | -------- |
-|xxx| xxx | xxx |
+| 0024 | [ Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [Solution.java](./recursion/24.%20Swap%20Nodes%20in%20Pairs/Solution.java) |
+
