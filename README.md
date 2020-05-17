@@ -60,5 +60,6 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 | # | Title| Solution | 
 |---| ----- | -------- |
 | 0024 | [ Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [Solution.java](./recursion/24.%20Swap%20Nodes%20in%20Pairs/Solution.java) |
+| 0119 | [ Pascal's Triangle II ](https://leetcode.com/problems/pascals-triangle-ii/)  | [Solution.java](./recursion/119.%20Pascal's%20Triangle%20II/Solution.java) |
 | 0344 | [ Reverse String ](https://leetcode.com/problems/reverse-string/)  | [Solution.java](./recursion/344.%20Reverse%20String/Solution.java) |
 
