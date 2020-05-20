@@ -13,7 +13,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
 |  0055  | [ Jump Game ](https://leetcode.com/problems/jump-game/) | [Solution.java](./algorithm/55.%20Jump%20Game/Solution.java)
-|  0111  | [ Minimum depth of Binary Tree ](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.java](./algorithm/111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.java)
+|  0111  | [ Minimum Depth of Binary Tree ](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.java](./algorithm/111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.java)
 |  0118  | [ Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/) | [Solution.java](./algorithm/118.%20Pascal's%20Triangle/Solution.java)
 |  0122  | [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](./algorithm/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java)
 |  0136  | [ Single Number ](https://leetcode.com/problems/single-number/) | [Solution.java](./algorithm/136.%20Single%20Number/Solution.java)
