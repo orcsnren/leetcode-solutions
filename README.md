@@ -17,6 +17,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0118  | [ Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/) | [Solution.java](./algorithm/118.%20Pascal's%20Triangle/Solution.java)
 |  0122  | [ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](./algorithm/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java)
 |  0136  | [ Single Number ](https://leetcode.com/problems/single-number/) | [Solution.java](./algorithm/136.%20Single%20Number/Solution.java)
+|  0153  | [Find the Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution.java](./algorithm/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.java)
 |  0155  | [ Min Stack ](https://leetcode.com/problems/min-stack/) | [Solution.java](./algorithm/155.%20Min%20Stack/Solution.java)
 |  0169  | [ Majority Element ](https://leetcode.com/problems/majority-element/) | [Solution.java](./algorithm/169.%20Majority%20Element/Solution.java)
 |  0173  | [ Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.java](./algorithm/173.%20Binary%20Search%20Tree%20Iterator/Solution.java)
