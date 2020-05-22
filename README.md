@@ -19,6 +19,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0136  | [ Single Number ](https://leetcode.com/problems/single-number/) | [Solution.java](./algorithm/136.%20Single%20Number/Solution.java)
 |  0155  | [ Min Stack ](https://leetcode.com/problems/min-stack/) | [Solution.java](./algorithm/155.%20Min%20Stack/Solution.java)
 |  0169  | [ Majority Element ](https://leetcode.com/problems/majority-element/) | [Solution.java](./algorithm/169.%20Majority%20Element/Solution.java)
+|  0173  | [ Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.java](./algorithm/173.%20Binary%20Search%20Tree%20Iterator/Solution.java)
 |  0202  | [ Happy Number ](https://leetcode.com/problems/happy-number/) | [Solution.java](./algorithm/202.%20Happy%20Number/Solution.java)
 |  0221  | [ Maximal Square ](https://leetcode.com/problems/maximal-square/) | [ Solution.java ](./algorithm/221.%20Maximal%20Square/Solution.java)
 |  0229  | [ Majority Element II ](https://leetcode.com/problems/majority-element-ii/) | [Solution.java](./algorithm/229.%20Majority%20Element%20II/Solution.java)
