@@ -26,6 +26,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0173  | [ Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.java](./algorithm/173.%20Binary%20Search%20Tree%20Iterator/Solution.java)
 |  0202  | [ Happy Number ](https://leetcode.com/problems/happy-number/) | [Solution.java](./algorithm/202.%20Happy%20Number/Solution.java)
 |  0221  | [ Maximal Square ](https://leetcode.com/problems/maximal-square/) | [ Solution.java ](./algorithm/221.%20Maximal%20Square/Solution.java)
+|  0226  | [ Invert Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) | [ Solution.java ](./algorithm/226.%20Invert%20Binary%20Tree/Solution.java)
 |  0229  | [ Majority Element II ](https://leetcode.com/problems/majority-element-ii/) | [Solution.java](./algorithm/229.%20Majority%20Element%20II/Solution.java)
 |  0232  | [ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution.java](./algorithm/232.%20Implement%20Queue%20using%20Stacks/Solution.java)
 |  0238  | [ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [Solution.java](./algorithm/238.%20Product%20of%20Array%20Except%20Self/Solution.java)
