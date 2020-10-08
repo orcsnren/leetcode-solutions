@@ -47,6 +47,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0771  | [ Jewels And Stones ](https://leetcode.com/problems/jewels-and-stones/) | [Solution.java](./algorithm/771.%20Jewels%20And%20Stones/Solution.java)
 |  0844  | [ Backspace String Compare ](https://leetcode.com/problems/backspace-string-compare/) | [Solution.java](./algorithm/844.%20Backspace%20String%20Compare/Solution.java)
 |  0876  | [ Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.java](./algorithm/876.%20Middle%20of%20the%20Linked%20List/Solution.java)
+|  0933  | [ Number of Recent Calls ](https://leetcode.com/problems/number-of-recent-calls/) | [Solution.java](./algorithm/933.%20Number%20of%20Recent%20Calls/Solution.java)
 |  0941  | [ Valid Mountain Array ](https://leetcode.com/problems/valid-mountain-array/) | [Solution.java](./algorithm/941.%20Valid%20Mountain%20Array/Solution.java)
 |  1009  | [ Complement of Base 10 Integer ](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.java](./algorithm/1009.%20Complement%20of%20Base%2010%20Integer/Solution.java) 
 |  1046  | [ Last Stone Weight ](https://leetcode.com/problems/last-stone-weight/) | [Solution.java](./algorithm/1046.%20Last%20Stone%20Weight)
