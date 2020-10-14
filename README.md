@@ -14,6 +14,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
 |  0055  | [ Jump Game ](https://leetcode.com/problems/jump-game/) | [Solution.java](./algorithm/55.%20Jump%20Game/Solution.java)
 |  0070  | [ Climbing Stars ](https://leetcode.com/problems/climbing-stairs/) | [Solution.java](./algorithm/70.%20Climbing%20Stairs/Solution.java)
+|  0104  | [ Maximum depth of Binary Tree ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution.java](./algorithm/104.%20Maximum%20Depth%20of%20Binary%20Tree/Solution.java)
 |  0111  | [ Minimum Depth of Binary Tree ](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.java](./algorithm/111.%20Minimum%20Depth%20of%20Binary%20Tree/Solution.java)
 |  0116  | [ Populating Next Right Pointers in Each Node ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution.java](./algorithm/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/Solution.java)
 |  0118  | [ Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle/) | [Solution.java](./algorithm/118.%20Pascal's%20Triangle/Solution.java)
