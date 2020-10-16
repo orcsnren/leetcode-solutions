@@ -10,6 +10,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0003  | [ Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution.java](./algorithm/3.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)
 |  0020  | [ Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | [Solution.java](./algorithm/20.%20Valid%20Parentheses/Solution.java) 
 |  0033  | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution.java](./algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java) 
+|  0046  | [ Permutations ](https://leetcode.com/problems/permutations/) | [Solution.java](./algorithm/46.%20Permutations/Solution.java) 
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
 |  0055  | [ Jump Game ](https://leetcode.com/problems/jump-game/) | [Solution.java](./algorithm/55.%20Jump%20Game/Solution.java)
