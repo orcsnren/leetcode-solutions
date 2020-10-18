@@ -4,7 +4,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 
 ## Algorithms 
 
-| # | Title| Solution | 
+| # | Problem | Solution | 
 |---| ----- | -------- |
 |  0001  | [ Two Sum ](https://leetcode.com/problems/two-sum/) | [Solution.java](./algorithm/1.%20Two%20Sum/Solution.java)
 |  0003  | [ Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution.java](./algorithm/3.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)
