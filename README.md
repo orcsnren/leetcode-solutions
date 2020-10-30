@@ -46,6 +46,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0278  | [ First Bad Version ](https://leetcode.com/problems/first-bad-version/) | [Solution.java](./algorithm/278.%20First%20Bad%20Version/Solution.java)
 |  0283  | [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | [Solution.java](./algorithm/283.%20Move%20Zeroes/Solution.java)
 |  0287  | [ Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.java](./algorithm/287.%20Find%20the%20Duplicate%20Number/Solution.java)
+|  0328  | [ Odd Even Linked List ](https://leetcode.com/problems/odd-even-linked-list/) | [Solution.java](./algorithm/328.%20Odd%20Even%20Linked%20List/Solution.java)
 |  0338  | [ Counting Bits ](https://leetcode.com/problems/counting-bits/) | [Solution.java](./algorithm/338.%20Counting%20Bits/Solution.java)
 |  0347  | [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution.java](./algorithm/347.%20Top%20K%20Frequent%20Elements/Solution.java)
 |  0378  | [ Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution.java](./algorithm/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/Solution.java)
