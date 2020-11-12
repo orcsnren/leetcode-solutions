@@ -10,6 +10,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0003  | [ Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution.java](./algorithm/3.%20Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)
 |  0013  | [ Roman to Integer ](https://leetcode.com/problems/roman-to-integer/) | [Solution.java](./algorithm/13.%20Roman%20to%20Integer/Solution.java)
 |  0020  | [ Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | [Solution.java](./algorithm/20.%20Valid%20Parentheses/Solution.java) 
+|  0021  | [ Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution.java](./algorithm/21.%20Merge%20Two%20Sorted%20Lists/Solution.java) 
 |  0033  | [ Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution.java](./algorithm/33.%20Search%20in%20Rotated%20Sorted%20Array/Solution.java) 
 |  0046  | [ Permutations ](https://leetcode.com/problems/permutations/) | [Solution.java](./algorithm/46.%20Permutations/Solution.java) 
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
