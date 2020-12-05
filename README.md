@@ -52,6 +52,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0347  | [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution.java](./algorithm/347.%20Top%20K%20Frequent%20Elements/Solution.java)
 |  0378  | [ Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution.java](./algorithm/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/Solution.java)
 |  0383  | [ Ransom Note ](https://leetcode.com/problems/ransom-note/) | [Solution.java](./algorithm/383.%20Ransom%20Note/Solution.java)
+|  0384  | [ Shuffle an Array ](https://leetcode.com/problems/shuffle-an-array/) | [Solution.java](./algorithm/384.%20Shuffle%20an%20Array/Solution.java)
 |  0387  | [ First Unique Character in a String ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.java](./algorithm/387.%20First%20Unique%20Character%20in%20a%20String/Solution.java)
 |  0412  | [ Fizz Buzz ](https://leetcode.com/problems/fizz-buzz/) | [Solution.java](./algorithm/412.%20Fizz%20Buzz/Solution.java)
 |  0434  | [ Number of Segments in a String ](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution.java](./algorithm/434.%20Number%20of%20Segments%20in%20a%20String/Solution.java)
