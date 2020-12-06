@@ -45,6 +45,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0237  | [ Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution.java](./algorithm/237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.java)
 |  0238  | [ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [Solution.java](./algorithm/238.%20Product%20of%20Array%20Except%20Self/Solution.java)
 |  0242  | [ Valid Anagrams ](https://leetcode.com/problems/valid-anagram/) | [Solution.java](./algorithm/242.%20Valid%20Anagram/Solution.java)
+|  0268  | [ Missing Number ](https://leetcode.com/problems/missing-number/) | [Solution.java](./algorithm/268.%20Missing%20Number/Solution.java)
 |  0278  | [ First Bad Version ](https://leetcode.com/problems/first-bad-version/) | [Solution.java](./algorithm/278.%20First%20Bad%20Version/Solution.java)
 |  0283  | [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | [Solution.java](./algorithm/283.%20Move%20Zeroes/Solution.java)
 |  0287  | [ Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.java](./algorithm/287.%20Find%20the%20Duplicate%20Number/Solution.java)
