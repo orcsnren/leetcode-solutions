@@ -53,6 +53,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0338  | [ Counting Bits ](https://leetcode.com/problems/counting-bits/) | [Solution.java](./algorithm/338.%20Counting%20Bits/Solution.java)
 |  0341  | [ Flatten Nested List Iterator ](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution.java](./algorithm/341.%20Flatten%20Nested%20List%20Iterator/Solution.java)
 |  0347  | [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution.java](./algorithm/347.%20Top%20K%20Frequent%20Elements/Solution.java)
+|  0371  | [ Sum of Two Integers ](https://leetcode.com/problems/sum-of-two-integers/) | [Solution.java](./algorithm/371.%20Sum%20of%20Two%20Integers/Solution.java)
 |  0378  | [ Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution.java](./algorithm/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/Solution.java)
 |  0383  | [ Ransom Note ](https://leetcode.com/problems/ransom-note/) | [Solution.java](./algorithm/383.%20Ransom%20Note/Solution.java)
 |  0384  | [ Shuffle an Array ](https://leetcode.com/problems/shuffle-an-array/) | [Solution.java](./algorithm/384.%20Shuffle%20an%20Array/Solution.java)
