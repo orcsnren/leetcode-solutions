@@ -61,6 +61,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0384  | [ Shuffle an Array ](https://leetcode.com/problems/shuffle-an-array/) | [Solution.java](./algorithm/384.%20Shuffle%20an%20Array/Solution.java)
 |  0387  | [ First Unique Character in a String ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.java](./algorithm/387.%20First%20Unique%20Character%20in%20a%20String/Solution.java)
 |  0394  | [ Decode String ](https://leetcode.com/problems/decode-string/) | [Solution.java](./algorithm/394.%20Decode%20String/Solution.java)
+|  0406  | [ Queue Reconstruction by Height ](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution.java](./algorithm/406. %20Queue%20Reconstruction%20By%20Height/Solution.java)
 |  0412  | [ Fizz Buzz ](https://leetcode.com/problems/fizz-buzz/) | [Solution.java](./algorithm/412.%20Fizz%20Buzz/Solution.java)
 |  0434  | [ Number of Segments in a String ](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution.java](./algorithm/434.%20Number%20of%20Segments%20in%20a%20String/Solution.java)
 |  0442  | [ Find All Duplicates in an Array ](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution.java](./algorithm/442.%20Find%20All%20Duplicates%20in%20an%20Array/Solution.java)
