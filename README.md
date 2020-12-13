@@ -17,7 +17,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0049  | [ Group Anagrams ](https://leetcode.com/problems/group-anagrams/) | [Solution.java](./algorithm/49.%20Group%20Anagrams/Solution.java)  
 |  0053  | [ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/) | [Solution.java](./algorithm/53.%20Maximum%20Subarray/Solution.java)
 |  0055  | [ Jump Game ](https://leetcode.com/problems/jump-game/) | [Solution.java](./algorithm/55.%20Jump%20Game/Solution.java)
-|  0070  | [ Climbing Stars ](https://leetcode.com/problems/climbing-stairs/) | [Solution.java](./algorithm/70.%20Climbing%20Stairs/Solution.java)
+|  0070  | [ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) | [Solution.java](./algorithm/70.%20Climbing%20Stairs/Solution.java)
 |  0088  | [ Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/) | [Solution.java](./algorithm/88.%20Merge%20Sorted%20Array/Solution.java)
 |  0094  | [ Binary Tree Inorder Traversal ](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.java](./algorithm/94.%20Binary%20Tree%20Inorder%20Traversal/Solution.java)
 |  0102  | [ Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution.java](./algorithm/102.%20Binary%20Tree%20Level%20Order%20Traversal/Solution.java)
