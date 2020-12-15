@@ -15,16 +15,16 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return isMirror(root, root);
+        return traversal(root, root);
     }
 
-    public boolean isMirror(TreeNode leftNode, TreeNode rightNode) {
+    public boolean traversal(TreeNode leftNode, TreeNode rightNode) {
         if (leftNode == null && rightNode == null)
             return true;
         if (leftNode == null || rightNode == null)
             return false;
         //System.out.println(leftNode.val+" "+rightNode.val);
-        return (leftNode.val == rightNode.val) && isMirror(leftNode.right, rightNode.left) && isMirror(leftNode.left, rightNode.right);
+        return (leftNode.val == rightNode.val) && traversal(leftNode.right, rightNode.left) && traversal(leftNode.left, rightNode.right);
     }
 
 }
