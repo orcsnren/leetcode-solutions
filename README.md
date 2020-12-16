@@ -59,6 +59,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0350  | [ Intersection of Two Arrays II ](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution.java](./algorithm/350.%20Intersection%20of%20Two%20Arrays%20II/Solution.java)
 |  0371  | [ Sum of Two Integers ](https://leetcode.com/problems/sum-of-two-integers/) | [Solution.java](./algorithm/371.%20Sum%20of%20Two%20Integers/Solution.java)
 |  0378  | [ Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Solution.java](./algorithm/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/Solution.java)
+|  0382  | [ Linked List Random Node ](https://leetcode.com/problems/linked-list-random-node/) | [Solution.java](./algorithm/382.%20Linked%20List%20Random%20Node/Solution.java)
 |  0383  | [ Ransom Note ](https://leetcode.com/problems/ransom-note/) | [Solution.java](./algorithm/383.%20Ransom%20Note/Solution.java)
 |  0384  | [ Shuffle an Array ](https://leetcode.com/problems/shuffle-an-array/) | [Solution.java](./algorithm/384.%20Shuffle%20an%20Array/Solution.java)
 |  0387  | [ First Unique Character in a String ](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.java](./algorithm/387.%20First%20Unique%20Character%20in%20a%20String/Solution.java)
