@@ -53,6 +53,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0283  | [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | [Solution.java](./algorithm/283.%20Move%20Zeroes/Solution.java)
 |  0287  | [ Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.java](./algorithm/287.%20Find%20the%20Duplicate%20Number/Solution.java)
 |  0328  | [ Odd Even Linked List ](https://leetcode.com/problems/odd-even-linked-list/) | [Solution.java](./algorithm/328.%20Odd%20Even%20Linked%20List/Solution.java)
+|  0334  | [ Increasing Triplet Subsequences ](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution.java](./algorithm/334.%20Increasing%20Triplet%20Subsequence/Solution.java)
 |  0338  | [ Counting Bits ](https://leetcode.com/problems/counting-bits/) | [Solution.java](./algorithm/338.%20Counting%20Bits/Solution.java)
 |  0341  | [ Flatten Nested List Iterator ](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Solution.java](./algorithm/341.%20Flatten%20Nested%20List%20Iterator/Solution.java)
 |  0347  | [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution.java](./algorithm/347.%20Top%20K%20Frequent%20Elements/Solution.java)
