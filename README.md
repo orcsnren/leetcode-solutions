@@ -44,8 +44,8 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0226  | [ Invert Binary Tree ](https://leetcode.com/problems/invert-binary-tree/) | [ Solution.java ](./algorithm/226.%20Invert%20Binary%20Tree/Solution.java)
 |  0229  | [ Majority Element II ](https://leetcode.com/problems/majority-element-ii/) | [Solution.java](./algorithm/229.%20Majority%20Element%20II/Solution.java)
 |  0230  | [ Kth Smallest Element in a BST ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution.java](./algorithm/230.%20Kth%20Smallest%20Element%20in%20a%20BST/Solution.java)
-|  0232  | [ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution.java](./algorithm/232.%20Implement%20Queue%20using%20Stacks/Solution.java),
-|  0234  | [ Implement Queue using Stacks ](https://leetcode.com/problems/palindrome-linked-list/) | [Solution.java](./algorithm/234.%20Palindrome%20Linked%20List/Solution.java)
+|  0232  | [ Implement Queue using Stacks ](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution.java](./algorithm/232.%20Implement%20Queue%20using%20Stacks/Solution.java)
+|  0234  | [ Palindrome Linked List ](https://leetcode.com/problems/palindrome-linked-list/) | [Solution.java](./algorithm/234.%20Palindrome%20Linked%20List/Solution.java)
 |  0237  | [ Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution.java](./algorithm/237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.java)
 |  0238  | [ Product of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [Solution.java](./algorithm/238.%20Product%20of%20Array%20Except%20Self/Solution.java)
 |  0242  | [ Valid Anagrams ](https://leetcode.com/problems/valid-anagram/) | [Solution.java](./algorithm/242.%20Valid%20Anagram/Solution.java)
