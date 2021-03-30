@@ -79,6 +79,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0540  | [ Single Element in a Sorted Array ](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution.java](./algorithm/540.%20Single%20Element%20in%20a%20Sorted%20Array/Solution.java)
 |  0543  | [ Diameter of Binary Tree ](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution.java](./algorithm/543.%20Diameter%20of%20Binary%20Tree/Solution.java)
 |  0617  | [ Merge Two Binary Trees ](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution.java](./algorithm/617.%20Merge%20Two%20Binary%20Trees/Solution.java)
+|  0621  | [ Task Scheduler ](https://leetcode.com/problems/task-scheduler/) | [Solution.java](./algorithm/621.%20Task%20Scheduler/Solution.java)
 |  0665  | [ Non-decreasing Array ](https://leetcode.com/problems/non-decreasing-array/) | [Solution.java](./algorithm/665.%20Non-decreasing%20Array/Solution.java)
 |  0678  | [ Valid Parenthesis String ](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.java](./algorithm/678.%20Valid%20Parenthesis%20String/Solution.java)
 |  0739  | [ Daily Temperatures ](https://leetcode.com/problems/daily-temperatures/) | [Solution.java](./algorithm/739.%20Daily%20Temperatures/Solution.java)
