@@ -85,6 +85,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0678  | [ Valid Parenthesis String ](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.java](./algorithm/678.%20Valid%20Parenthesis%20String/Solution.java)
 |  0739  | [ Daily Temperatures ](https://leetcode.com/problems/daily-temperatures/) | [Solution.java](./algorithm/739.%20Daily%20Temperatures/Solution.java)
 |  0771  | [ Jewels And Stones ](https://leetcode.com/problems/jewels-and-stones/) | [Solution.java](./algorithm/771.%20Jewels%20And%20Stones/Solution.java)
+|  0775  | [ Global and Local Inversions ](https://leetcode.com/problems/global-and-local-inversions/) | [Solution.java](./algorithm/775.%20Global%20and%20Local%20Inversions/Solution.java)
 |  0844  | [ Backspace String Compare ](https://leetcode.com/problems/backspace-string-compare/) | [Solution.java](./algorithm/844.%20Backspace%20String%20Compare/Solution.java)
 |  0876  | [ Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.java](./algorithm/876.%20Middle%20of%20the%20Linked%20List/Solution.java)
 |  0933  | [ Number of Recent Calls ](https://leetcode.com/problems/number-of-recent-calls/) | [Solution.java](./algorithm/933.%20Number%20of%20Recent%20Calls/Solution.java)
