@@ -106,7 +106,6 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  1476  | [ Subrectangle Queries ](https://leetcode.com/problems/subrectangle-queries/) | [Solution.java ](./algorithm/1476.%20Subrectangle%20Queries/Solution.java)
 |  1480  | [ Running Sum of 1d Array ](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution.java ](./algorithm/1480.%20Running%20Sum%20of%201d%20Array/Solution.java)
 |  1551  | [ Minimum Operations to Make Array Equal ](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Solution.java ](./algorithm/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal/Solution.java)
-
 |  1672  | [ Richest Customer Wealth ](https://leetcode.com/problems/richest-customer-wealth/) | [Solution.java ](./algorithm/1672.%20Richest%20Customer%20Wealth/Solution.java)
 |  ****  | [ Counting Elements ](./algorithm/Counting%20Elements/question.md) | [Solution.java](./algorithm/Counting%20Elements/Solution.java)
 |  ****  | [ Perform String Shifts ](./algorithm/Perform%20String%20Shifts/question.md) |[Solution.java](./algorithm/Perform%20String%20Shifts/Solution.java)
