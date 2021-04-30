@@ -38,6 +38,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0169  | [ Majority Element ](https://leetcode.com/problems/majority-element/) | [Solution.java](./algorithm/169.%20Majority%20Element/Solution.java)
 |  0171  | [ Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution.java](./algorithm/171.%20Excel%20Sheet%20Column%20Number/Solution.java)
 |  0173  | [ Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.java](./algorithm/173.%20Binary%20Search%20Tree%20Iterator/Solution.java)
+|  0191  | [ Number of 1 Bits ](https://leetcode.com/problems/number-of-1-bits/) | [Solution.java](./algorithm/191.%20Number%20of%201%20Bits/Solution.java)
 |  0199  | [ Binary Tree Right Side View ](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution.java](./algorithm/199.%20Binary%20Tree%20Right%20Side%20View/Solution.java)
 |  0202  | [ Happy Number ](https://leetcode.com/problems/happy-number/) | [Solution.java](./algorithm/202.%20Happy%20Number/Solution.java)
 |  0206  | [ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | [Solution.java](./algorithm/206.%20Reverse%20Linked%20List/Solution.java)
