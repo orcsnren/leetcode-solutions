@@ -59,6 +59,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0268  | [ Missing Number ](https://leetcode.com/problems/missing-number/) | [Solution.java](./algorithm/268.%20Missing%20Number/Solution.java)
 |  0278  | [ First Bad Version ](https://leetcode.com/problems/first-bad-version/) | [Solution.java](./algorithm/278.%20First%20Bad%20Version/Solution.java)
 |  0283  | [ Move Zeroes ](https://leetcode.com/problems/move-zeroes/) | [Solution.java](./algorithm/283.%20Move%20Zeroes/Solution.java)
+|  0284  | [ Peeking Iterator ](https://leetcode.com/problems/peeking-iterator/) | [Solution.java](./algorithm/284.%20Peeking%20Iterator/Solution.java)
 |  0287  | [ Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.java](./algorithm/287.%20Find%20the%20Duplicate%20Number/Solution.java)
 |  0328  | [ Odd Even Linked List ](https://leetcode.com/problems/odd-even-linked-list/) | [Solution.java](./algorithm/328.%20Odd%20Even%20Linked%20List/Solution.java)
 |  0334  | [ Increasing Triplet Subsequences ](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution.java](./algorithm/334.%20Increasing%20Triplet%20Subsequence/Solution.java)
