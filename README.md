@@ -112,6 +112,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  1470  | [ Shuffle the Array ](https://leetcode.com/problems/shuffle-the-array/) | [Solution.java ](./algorithm/1470.%20Shuffle%20the%20Array/Solution.java)
 |  1476  | [ Subrectangle Queries ](https://leetcode.com/problems/subrectangle-queries/) | [Solution.java ](./algorithm/1476.%20Subrectangle%20Queries/Solution.java)
 |  1480  | [ Running Sum of 1d Array ](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution.java ](./algorithm/1480.%20Running%20Sum%20of%201d%20Array/Solution.java)
+|  1512  | [Number of Good Pairs ](https://leetcode.com/problems/number-of-good-pairs/) | [Solution.java ](./algorithm/1512.%20Number%20of%20Good%20Pairs/Solution.java)
 |  1539 | [ Kth Missing Positive Number ](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution.java ](./algorithm/1539.%20Kth%20Missing%20Positive%20Number/Solution.java)
 |  1551  | [ Minimum Operations to Make Array Equal ](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Solution.java ](./algorithm/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal/Solution.java)
 |  1672  | [ Richest Customer Wealth ](https://leetcode.com/problems/richest-customer-wealth/) | [Solution.java ](./algorithm/1672.%20Richest%20Customer%20Wealth/Solution.java)
