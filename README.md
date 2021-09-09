@@ -115,6 +115,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  1512  | [Number of Good Pairs ](https://leetcode.com/problems/number-of-good-pairs/) | [Solution.java ](./algorithm/1512.%20Number%20of%20Good%20Pairs/Solution.java)
 |  1539 | [ Kth Missing Positive Number ](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution.java ](./algorithm/1539.%20Kth%20Missing%20Positive%20Number/Solution.java)
 |  1551  | [ Minimum Operations to Make Array Equal ](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Solution.java ](./algorithm/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal/Solution.java)
+|  1603  | [ Design Parking System ](https://leetcode.com/problems/design-parking-system/) | [Solution.java ](./algorithm/1603.%20Design%20Parking%20System/Solution.java)
 |  1672  | [ Richest Customer Wealth ](https://leetcode.com/problems/richest-customer-wealth/) | [Solution.java ](./algorithm/1672.%20Richest%20Customer%20Wealth/Solution.java)
 |  1913  | [ Maximum Product Difference Between Two Pairs ](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Solution.java ](./algorithm/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs/Solution.java)
 |  1929  | [ Concatenation of Array ](https://leetcode.com/problems/concatenation-of-array/) | [Solution.java ](./algorithm/1929.%20Concatenation%20of%20Array/Solution.java)
