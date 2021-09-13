@@ -38,6 +38,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0153  | [ Find the Minimum in Rotated Sorted Array ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution.java](./algorithm/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/Solution.java)
 |  0154  | [ Find the Minimum in Rotated Sorted Array II ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution.java](./algorithm/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/Solution.java)
 |  0155  | [ Min Stack ](https://leetcode.com/problems/min-stack/) | [Solution.java](./algorithm/155.%20Min%20Stack/Solution.java)
+|  0160  | [ Intersection of Two Linked Lists ](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution.java](./algorithm/160.%20Intersection%20of%20Two%20Linked%20Lists/Solution.java)
 |  0169  | [ Majority Element ](https://leetcode.com/problems/majority-element/) | [Solution.java](./algorithm/169.%20Majority%20Element/Solution.java)
 |  0171  | [ Excel Sheet Column Number ](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution.java](./algorithm/171.%20Excel%20Sheet%20Column%20Number/Solution.java)
 |  0173  | [ Binary Search Tree Iterator ](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution.java](./algorithm/173.%20Binary%20Search%20Tree%20Iterator/Solution.java)
