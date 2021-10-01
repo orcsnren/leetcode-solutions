@@ -97,6 +97,7 @@ This repository contains efficient leetcode solutions of the leetcode problems /
 |  0665  | [ Non-decreasing Array ](https://leetcode.com/problems/non-decreasing-array/) | [Solution.java](./algorithm/665.%20Non-decreasing%20Array/Solution.java)
 |  0678  | [ Valid Parenthesis String ](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.java](./algorithm/678.%20Valid%20Parenthesis%20String/Solution.java)
 |  0739  | [ Daily Temperatures ](https://leetcode.com/problems/daily-temperatures/) | [Solution.java](./algorithm/739.%20Daily%20Temperatures/Solution.java)
+|  0740  | [ Delete And Earn ](https://leetcode.com/problems/delete-and-earn/) | [Solution.java](./algorithm/740.%20Delete%20and%20Earn/Solution.java)
 |  0746  | [ Min Cost Climbing Stairs ](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution.java](./algorithm/746.%20Min%20Cost%20Climbing%20Stairs/Solution.java)
 |  0763  | [ Partition Labels ](https://leetcode.com/problems/partition-labels/) | [Solution.java](./algorithm/763.%20Partition%20Labels/Solution.java)
 |  0771  | [ Jewels And Stones ](https://leetcode.com/problems/jewels-and-stones/) | [Solution.java](./algorithm/771.%20Jewels%20And%20Stones/Solution.java)
